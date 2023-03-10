@@ -1,5 +1,6 @@
-### Request |                       | ### Handle                         | ### Response
+Request |                       | Handle                         | Response
     getRequestedPage                |   validateRequest                  |   showResponsePage
+    ------------- | :-------------: | -------------:
 GET         |   HOME                |
 
 GET         |   CONTACT             |
